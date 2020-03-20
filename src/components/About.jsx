@@ -9,7 +9,7 @@ export default function About() {
           <img src={process.env.PUBLIC_URL+'/andreas-klassen.jpg'} className='card-img-top' alt="..." />
           <div className="card-body">
             <h5 className="card-title">Developer information</h5>
-            <p>Dome Potikanond (610610999)</p>
+            <p>Siwakon nak-Yim (610610705)</p>
             <p>This app use Google Firebase as backend.</p>
             <Link to="/">
               <h3>
